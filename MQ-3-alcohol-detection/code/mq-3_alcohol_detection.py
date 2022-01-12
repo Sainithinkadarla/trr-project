@@ -16,3 +16,4 @@
 16.	        print("alcohol detected",GPIO.input(8))  #returns alcohol detected
 17.	        GPIO.output(10,0)   #turning OFF engine
 18.	    sleep(0.5)              #stops execution for 0.5 seconds
+assad
