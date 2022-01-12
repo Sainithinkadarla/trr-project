@@ -1,2 +1,4 @@
 # TRR-project
-###Traffic Lights 
+
+# Traffic Lights module
+it is developed in Python 
